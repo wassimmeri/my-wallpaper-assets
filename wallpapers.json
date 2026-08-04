@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Wallpaper 1",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/1.png"
+  },
+  {
+    "id": "2",
+    "name": "Wallpaper 2",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/2.png"
+  },
+  {
+    "id": "3",
+    "name": "Wallpaper 3",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/3.png"
+  },
+{
+    "id": "4",
+    "name": "Wallpaper 4",
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/4.png"
+  }
+]
