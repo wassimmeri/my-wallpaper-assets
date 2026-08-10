@@ -1,92 +1,92 @@
 [
   {
     "id": "1",
-    "name": "Wallpaper 1",
-    "category": "Nature",
+    "name": "Caine Circus Master",
+    "isNew": false,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/1.png"
   },
   {
     "id": "2",
-    "name": "Wallpaper 2",
-    "category": "Abstract",
+    "name": "Caine Circus Master",
+    "isNew": false,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/2.png"
   },
   {
     "id": "3",
-    "name": "Wallpaper 3",
-    "category": "Nature",
+    "name": "Caine Circus Master",
+    "isNew": false,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/3.png"
   },
 {
     "id": "4",
-    "name": "Wallpaper 4",
-  "category": "Cyberpunk",
+    "name": "Caine Circus Master",
+    "isNew": false,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/4.png"
   },
     {
     "id": "5",
-    "name": "Wallpaper 5",
-      "category": "Abstract",
+    "name": "Caine Circus Master",
+    "isNew": false,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/5.jpg"
   },
   {
     "id": "6",
-    "name": "Wallpaper 6",
-    "category": "Nature",
+    "name": "Caine Circus Master",
+    "isNew": false,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/6.jpg"
   },
   {
     "id": "7",
-    "name": "Wallpaper 7",
-    "category": "Minimal",
+    "name": "Caine Circus Master",
+    "isNew": false,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/7.jpg"
   },
   {
     "id": "8",
-    "name": "Wallpaper 8",
-    "category": "Cyberpunk",
+    "name": "Caine Circus Master",
+    "isNew": false,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/8.jpg"
   },
   {
     "id": "9",
-    "name": "Wallpaper 9",
-    "category": "Abstract",
+    "name": "Caine Circus Master",
+    "isNew": false,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/9.jpg"
   },
   {
     "id": "10",
-    "name": "Wallpaper 10",
-    "category": "Nature",
+    "name": "Caine Circus Master",
+    "isNew": false,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/10.jpg"
   },
   {
     "id": "11",
-    "name": "Wallpaper 11",
-    "category": "Minimal",
+    "name": "Caine Circus Master",
+    "isNew": false,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/11.jpg"
   },
   {
     "id": "12",
-    "name": "Wallpaper 12",
-    "category": "Cyberpunk",
+    "name": "My Plan",
+    "isNew": true,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/12.jpg"
   },
   {
     "id": "13",
-    "name": "Wallpaper 13",
-    "category": "Minimal",
+    "name": "Naruto",
+    "isNew": true,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/13.jpg"
   },
   {
     "id": "14",
-    "name": "Wallpaper 14",
-    "category": "Cyberpunk",
+    "name": "Conan",
+    "isNew": true,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/14.jpg"
   },
    {
     "id": "15",
-    "name": "Wallpaper 15",
-     "category": "Nature",
+    "name": "Caine Circus Master",
+    "isNew": true,
     "url": "https://cdn.jsdelivr.net/gh/wassimmeri/my-wallpaper-assets@main/images/15.png"
   }
 ]
